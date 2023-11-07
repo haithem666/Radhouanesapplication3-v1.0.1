@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -121,7 +121,6 @@
 				250CEFC3E934D577D0284899 /* Pods-Radhouanesapplication3.debug.xcconfig */,
 				6ADBB2642D95746510014ED6 /* Pods-Radhouanesapplication3.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
